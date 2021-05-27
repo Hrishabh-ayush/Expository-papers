@@ -1,3 +1,2 @@
-- Expository-papers
 - You can check out some of my expository papers over the past. These expository papers were written as a part of the course that I took in the past. 
 - It took me about 1-2 months to write each paper.
